@@ -1,0 +1,1 @@
+{"uuid":"8cf522e9-87dc-4e73-ac82-29a976c3128f","name":"tests.PaymentTests","children":["98bf3d13-91a0-4011-9762-d9ca72e0ba87"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1708504505203,"stop":1708504507562}],"afters":[],"start":1708504498547,"stop":1708504507608}
